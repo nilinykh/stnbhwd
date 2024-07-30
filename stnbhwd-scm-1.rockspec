@@ -1,10 +1,6 @@
 package = "stnbhwd"
 version = "scm-1"
 
-source = {
-   url = "git://github.com/nilinykh/stnbhwd.git",
-}
-
 description = {
    summary = "Spatial Transformer Networks for Torch",
    detailed = [[
